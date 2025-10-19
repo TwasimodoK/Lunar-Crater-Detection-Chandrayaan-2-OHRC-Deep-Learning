@@ -1,1 +1,11 @@
+numpy
+pandas
+opencv-python
+matplotlib
+tqdm
+pds4-tools
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
 
